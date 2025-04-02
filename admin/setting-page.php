@@ -40,7 +40,7 @@ function project_settings_page_callback() {
     ?>
     <div class="wrap">
         <h1>Project Settings</h1>
-
+        
     </div>
     <?php
 }
